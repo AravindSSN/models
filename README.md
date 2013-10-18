@@ -1,2 +1,3 @@
 README
 read
+write
